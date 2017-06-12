@@ -6,6 +6,3 @@ var bones ={
  name: 'bone'
 }
 
-
-
-
